@@ -1,0 +1,20 @@
+<templateSet group="Test">
+  <template name="should" value="it('should $STATMENT$', () =&gt; {&#10;    /* Given */ $END$&#10;    /* When  */&#10;    /* Then  */ &#10;});" description="Jasmine IT test" toReformat="true" toShortenFQNames="true">
+    <variable name="STATMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="descr" value="describe('$TITLE$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine Describe Test" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="before" value="beforeEach(() =&gt; {&#10;    $END$&#10;});" description="BeforeEach" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
