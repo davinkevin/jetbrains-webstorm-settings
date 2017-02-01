@@ -106,8 +106,12 @@
           <option name="url" value="git@integration.oneatlas.intelligence-airbusds.com:one-atlas/oneLive-Leaflet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@integration.oneatlas.intelligence-airbusds.com:airbus/angular-openlayers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Airbus/PADAWAN" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Airbus/webfactory/" />
   </component>
 </application>
