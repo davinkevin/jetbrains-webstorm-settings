@@ -114,8 +114,12 @@
           <option name="url" value="https://github.com/furzeface/gulp-cache-bust.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://integration.oneatlas.intelligence-airbusds.com/api/catalog-api-proxy/wikis/on-call/index" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/furzeface" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Airbus/webfactory" />
   </component>
 </application>
