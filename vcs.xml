@@ -118,8 +118,12 @@
           <option name="url" value="https://integration.oneatlas.intelligence-airbusds.com/api/catalog-api-proxy/wikis/on-call/index" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/davinkevin/angular2-openlayers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Airbus/webfactory" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/GitHub" />
   </component>
 </application>
