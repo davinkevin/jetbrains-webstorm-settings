@@ -126,8 +126,12 @@
           <option name="url" value="https://github.com/davinkevin/ol3-with-lots-of-objects.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/davinkevin/Angular-Formation-Book-Store.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/GitHub" />
+    <option name="cloneParentDir" value="/tmp" />
   </component>
 </application>
