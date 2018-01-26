@@ -6,7 +6,6 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="IdentityService" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
