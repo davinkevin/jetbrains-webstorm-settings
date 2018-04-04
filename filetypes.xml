@@ -7,7 +7,6 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
