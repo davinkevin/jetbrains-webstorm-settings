@@ -1,0 +1,17 @@
+<templateSet group="Angular">
+  <template name="fstable" value="fixture.whenStable().then(() =&gt; {&#10;  $END$&#10;});" description="When a fixture is stable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="action" value="export class $NAME$ implements Action {&#10;  readonly type = $TYPE$;&#10;  constructor($PAYLOAD$: $PAYLOAD_TYPE$) {}&#10;}" description="Action from ngrx" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PAYLOAD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PAYLOAD_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
