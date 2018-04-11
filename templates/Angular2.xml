@@ -1,8 +1,0 @@
-<templateSet group="Angular2">
-  <template name="fstable" value="fixture.whenStable().then(() =&gt; {&#10;  $END$&#10;});" description="When a fixture is stable" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
-</templateSet>
