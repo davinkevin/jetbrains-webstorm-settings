@@ -57,5 +57,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="hg4idea.QPushAction" />
 </keymap>
