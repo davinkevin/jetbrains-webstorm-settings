@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>197</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -121,6 +121,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run ' start'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run '🚀 start'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'index.html'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -135,14 +143,6 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'serve'</Description>
           <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run ' start'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run '🚀 start'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
