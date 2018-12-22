@@ -65,6 +65,14 @@
           <Count>214</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exit Presentation Mode">
+        <Item>
+          <IdeaActionID>TogglePresentationMode</IdeaActionID>
+          <ShortCut>'⇧⌘P'</ShortCut>
+          <Description>Exit Presentation Mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find in Path...">
         <Item>
           <IdeaActionID>FindInPath</IdeaActionID>
